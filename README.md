@@ -4,7 +4,7 @@ Course Project for EE367
 ![Cover Pic](https://github.com/AdityaDusi97/Multifocal-Plane-Portrait-Mode/blob/master/Final_Pic.png)
 
 This pipeline was created for the course project for course EE 367: Computational Imaging and Display. Detailed report can be found here:
-<ADD LINK TO GOOGLE DRIVE ON >
+https://drive.google.com/drive/folders/1K5DvM4bD2LaJ8UOMW2sRa3Tgvkz88IcO?usp=sharing
 
 # Requirements:
 - MATLAB
@@ -14,7 +14,9 @@ This pipeline was created for the course project for course EE 367: Computationa
 
 # Directory Structure:
 LFToolBox: All the necessary functions are here
+
 Calibration: Calibration Data extracted from the Illum
+
 LFToolbox0.3_Samples1
 - Cameras: Unique IDs of various cameras along with calibration data
 - Images: All  .LFR images and depth maps are placed here
@@ -31,8 +33,20 @@ cd ../LFToolbox/
 LFMatlabPathSetup
 cd ../LFToolbox0.3_Samples1/
 ```
-This sets up the path for LFToolbox. Now, we're all set to run any of the demos. 
-Run in MATLAB's terminal using the command
+This sets up the path for LFToolbox. 
+
+3. Download sample calibration data and images
+Download load the following two directories and place them under LFToolbox0.3_Samples1/
+- Cameras: Has camera calibration data
+```
+https://drive.google.com/drive/folders/1Kl4xOK2GKTqQj81ksxoliIt8KkAdx5OJ?usp=sharing
+```
+- Images: Sample raw and decoded .LFR images used in the demo
+```
+https://drive.google.com/drive/folders/1HABq45_mEhlmzDXvF0zo7gtLK1AFXb_q?usp=sharing
+``` 
+
+4. Run in MATLAB's terminal using the command
 ```
 demo_1.m
 ```
