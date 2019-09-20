@@ -13,13 +13,12 @@ This pipeline was created for the course project for course EE 367: Computationa
 - Lytro Desktop (Software to extract depth_map)
 
 # Directory Structure:
-|
-|-> LFToolBox: All the necessary functions are here
-|-> Calibration: Calibration Data extracted from the Illum
-|-> LFToolbox0.3_Samples1
-        |-> Cameras: Unique IDs of various cameras along with calibration data
-        |-> Images: All  .LFR images and depth maps are placed here
-        |-> Demo_*.m; * = {1,2,3}, demp scripts
+LFToolBox: All the necessary functions are here
+Calibration: Calibration Data extracted from the Illum
+LFToolbox0.3_Samples1
+	- Cameras: Unique IDs of various cameras along with calibration data
+	- Images: All  .LFR images and depth maps are placed here
+	- Demo_*.m; * = {1,2,3}, demp scripts
 
 # Instructions to run:
 To demonstrate the working of this pipeline, I have provided 3 demo scripts- Demo_1.m, Demo_2.m & Demo_3.m
