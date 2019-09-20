@@ -1,3 +1,6 @@
 [submodule "repo/repo/LFToolbox"]
 	path = repo/repo/LFToolbox
 	url = https://github.com/doda42/LFToolbox
+[submodule "repo/LFToolbox_"]
+	path = repo/LFToolbox_
+	url = https://github.com/doda42/LFToolbox
