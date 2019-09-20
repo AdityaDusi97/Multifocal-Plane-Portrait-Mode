@@ -15,12 +15,14 @@ https://drive.google.com/drive/folders/1K5DvM4bD2LaJ8UOMW2sRa3Tgvkz88IcO?usp=sha
 # Directory Structure:
 LFToolBox: All the necessary functions are here
 
-Calibration: Calibration Data extracted from the Illum
-
 LFToolbox0.3_Samples1
 - Cameras: Unique IDs of various cameras along with calibration data
 - Images: All  .LFR images and depth maps are placed here
 - Demo_*.m; * = {1,2,3}, demp scripts
+
+Go to https://drive.google.com/drive/folders/15ysftRh__TdPL3BhTd19hCv6nD8UmUCc?usp=sharing and download the following folder in the same directory as LFToolBox and LFToolbox0.3_Samples1
+More instructions on these are in the *LFToolBox.pdf* document.
+Calibration: Calibration Data extracted from the Illum
 
 # Instructions to run:
 To demonstrate the working of this pipeline, I have provided 3 demo scripts- Demo_1.m, Demo_2.m & Demo_3.m
