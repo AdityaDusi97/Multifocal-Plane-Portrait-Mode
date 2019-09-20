@@ -1,7 +1,7 @@
 # Multifocal-Plane-Portrait-Mode
 Multifocal Plane Portrait Mode pipeline with Lightfields
 Course Project for EE367
-![Cover Pic](https://github.com/AdityaDusi97/Multifocal-Plane-Portrait-Mode/blob/master/Final_Pic.png = 1000 x 1000)
+![Cover Pic](https://github.com/AdityaDusi97/Multifocal-Plane-Portrait-Mode/blob/master/Final_Pic.png)
 
 This pipeline was created for the course project for course EE 367: Computational Imaging and Display. Detailed report can be found here:
 <ADD LINK TO GOOGLE DRIVE ON >
